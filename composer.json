@@ -1,0 +1,13 @@
+{
+    "name": "spaceflow/hello-world",
+    "description": "Placeholder for reserving Spaceflow namespace for Spaceflow.io",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Marek Makovec",
+            "email": "marek.makovec@spaceflow.io"
+        }
+    ],
+    "require": {}
+}
